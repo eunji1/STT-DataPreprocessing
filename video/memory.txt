@@ -1,0 +1,30 @@
+mp4로 영상을 다운받을 경우
+영상을 타임스탬프별로 자를 때
+영상이 끊기거나 검은 배경이 나오는 것을 확인
+
+mp4를 avi로 변환했을 때 위의 문제점이 해결되는 것을 보임
+다만, avi 화질이 떨어짐
+
+!pip install --upgrade google-cloud-storage
+!pip install google-cloud-speech
+!pip install SpeechRecognition
+!pip install pipwin
+
+!pip install pytube
+!pip install pydub
+!pipwin install pyaudio
+!sudo apt install ffmpeg
+!pip install ffmpeg-python
+#!ffmpeg -version
+
+!pip install protobuf==3.19.0
+
+
+!pip install sk-video
+! pip install dlib
+! pip install numpy
+# 68개 얼굴 랜드마크 데이터 가져오기 
+! wget http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
+
+# 압축 풀기 
+! bzip2 -d shape_predictor_68_face_landmarks.dat.bz2
