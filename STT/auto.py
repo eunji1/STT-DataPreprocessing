@@ -22,8 +22,8 @@ for i in result:
     # 굳이 옮겨야 할까?
     
 	jsonFileName = i[:-4]+'.json'
-	with open('./wavs/'+jsonFileName, 'w') as f:
+	with open('./wavx/'+jsonFileName, 'w') as f:
 		json.dump(jsonName, f, indent=4, ensure_ascii=False)
-	destinationJsonName = jsonFileName =  jsonFileName
+	destinationJsonName = './One/' + jsonFileName 
 
 	sendToGCS. upload_blob(bucket_name ,jsonFileName, destinationJsonName )
