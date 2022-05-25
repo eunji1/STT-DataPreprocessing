@@ -1,4 +1,7 @@
 from google.cloud import storage
+import os
+
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="key.json"
 
 def upload_blob(bucket_name, source_file_name, destination_blob_name):
 

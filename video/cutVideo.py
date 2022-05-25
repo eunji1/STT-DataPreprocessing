@@ -2,7 +2,7 @@ import getVideos
 import json
 from subprocess import call
 from moviepy.video.io.ffmpeg_tools import ffmpeg_extract_subclip
-
+import os
 
 result = getVideos.test("./videos.json")
 #['001','002','003']
@@ -15,6 +15,7 @@ for i in result:
 		for count in range(len(data)):
 			dictTime = data[count]['words']
 			num = 0
+			os.makedirs("./data/{}/{}_{}/video".format(i, i, count))
 			for row in dictTime:
 				WordTimeList = []
     			# end_time, start_time, word를 WordTimeList안에 따로 담기    
@@ -23,8 +24,10 @@ for i in result:
 					num += 1
     				#print(num/3)
     				#print(WordTimeList)
-					#앞뒤로 0.5초 패딩
-					ffmpeg_extract_subclip("./avi/{}.avi".format(i), 
+				Num = str(int(num)).zfill(3)
+				#앞뒤로 0.5초 패딩
+				ffmpeg_extract_subclip("./avi/{}.avi".format(i), 
 										WordTimeList[1]-0.5, 
 										WordTimeList[0]+0.5, 
-										targetname="./data/{}/{}_{}/{}_{}{}.avi".format(i, i, count, i, count, int(num/3).zfil(3), WordTimeList[2]))
+										targetname="./data/{}/{}_{}/video/{}_{}{}.avi".format(i, i, count, i, count, Num, WordTimeList[2]))
+										# data/001/001_001/video/001_001안녕하세요.avi

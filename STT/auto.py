@@ -2,6 +2,10 @@ import getAudioes
 import sendToGCS
 import sttJson
 import json
+import os
+
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="key.json"
+
 bucket_name = "example_baker"
 
 # wav파일 가져오기
