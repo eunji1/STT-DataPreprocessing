@@ -8,8 +8,8 @@ result = []
 
 def test(jsonDir):
 	# videos.json  읽어오기
-    with open ("videos.json","r") as loadJson:
-	    LOAD = json.load(loadJson)
+    with open ("/home/sej/data/STT/videos.json","r") as loadJson:
+        LOAD = json.load(loadJson)
     for key, value in LOAD.items():
         print(key)
         print(value)
@@ -21,7 +21,7 @@ def test(jsonDir):
         stream.download('./', '{}.mp4'.format(key))
 
 	# mp4를 avi로
-        call('ffmpeg -i ./{}.mp4 ./avi/{}.avi'.formet(key, key), shell=True)
+        call('ffmpeg -i ./{}.mp4 ./avi/{}.avi'.format(key, key), shell=True)
 
 	# mp4 제거
         os.remove("{}.mp4".format(key))

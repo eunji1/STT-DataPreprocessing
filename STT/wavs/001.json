@@ -1,0 +1,3363 @@
+[
+    {
+        "transcript": "안녕하세요 세종한국어회화 진행을 맡은 KBS 아나운서 정다은입니다 케이팝과 한국 드라마의 한국어를 배우는 외국인들이 많습니다 세계 곳곳에서 한국어를 배우는 학자들도 점점 늘고 있고 한국어와 한국문화에 관심을 가지고 한국에 오는 사람도 많은데요 어떻게 해야 한국어를 잘할 수 있을까 고민 하는 분들을 위해 준비한 세종한국어회화 첫 수업을 시작합니다 드라마 속 장면을 보고 그 안에 나오는 한국어로 배워요 오늘",
+        "confidence": 0.8944605588912964,
+        "words": [
+            {
+                "end_time": 8.8,
+                "start_time": 5.3,
+                "word": "안녕하세요"
+            },
+            {
+                "end_time": 10.7,
+                "start_time": 8.8,
+                "word": "세종한국어회화"
+            },
+            {
+                "end_time": 11.3,
+                "start_time": 10.7,
+                "word": "진행을"
+            },
+            {
+                "end_time": 11.7,
+                "start_time": 11.3,
+                "word": "맡은"
+            },
+            {
+                "end_time": 12.6,
+                "start_time": 11.7,
+                "word": "kbs"
+            },
+            {
+                "end_time": 13.2,
+                "start_time": 12.6,
+                "word": "아나운서"
+            },
+            {
+                "end_time": 13.6,
+                "start_time": 13.2,
+                "word": "정다은"
+            },
+            {
+                "end_time": 14.2,
+                "start_time": 13.6,
+                "word": "입니다"
+            },
+            {
+                "end_time": 16.3,
+                "start_time": 14.2,
+                "word": "케이팝과"
+            },
+            {
+                "end_time": 16.7,
+                "start_time": 16.3,
+                "word": "한국"
+            },
+            {
+                "end_time": 17.2,
+                "start_time": 16.7,
+                "word": "드라마의"
+            },
+            {
+                "end_time": 18.4,
+                "start_time": 17.2,
+                "word": "한국어를"
+            },
+            {
+                "end_time": 18.8,
+                "start_time": 18.4,
+                "word": "배우는"
+            },
+            {
+                "end_time": 19.6,
+                "start_time": 18.8,
+                "word": "외국인들이"
+            },
+            {
+                "end_time": 20.0,
+                "start_time": 19.6,
+                "word": "많습니다"
+            },
+            {
+                "end_time": 21.9,
+                "start_time": 20.0,
+                "word": "세계"
+            },
+            {
+                "end_time": 22.4,
+                "start_time": 21.9,
+                "word": "곳곳에서"
+            },
+            {
+                "end_time": 23.2,
+                "start_time": 22.4,
+                "word": "한국어를"
+            },
+            {
+                "end_time": 23.4,
+                "start_time": 23.2,
+                "word": "배우는"
+            },
+            {
+                "end_time": 24.2,
+                "start_time": 23.4,
+                "word": "학자들도"
+            },
+            {
+                "end_time": 24.8,
+                "start_time": 24.2,
+                "word": "점점"
+            },
+            {
+                "end_time": 25.1,
+                "start_time": 24.8,
+                "word": "늘고"
+            },
+            {
+                "end_time": 25.4,
+                "start_time": 25.1,
+                "word": "있고"
+            },
+            {
+                "end_time": 27.1,
+                "start_time": 25.4,
+                "word": "한국어와"
+            },
+            {
+                "end_time": 27.2,
+                "start_time": 27.1,
+                "word": "한국문화"
+            },
+            {
+                "end_time": 28.0,
+                "start_time": 27.2,
+                "word": "에"
+            },
+            {
+                "end_time": 28.5,
+                "start_time": 28.0,
+                "word": "관심을"
+            },
+            {
+                "end_time": 29.0,
+                "start_time": 28.5,
+                "word": "가지고"
+            },
+            {
+                "end_time": 29.6,
+                "start_time": 29.0,
+                "word": "한국에"
+            },
+            {
+                "end_time": 29.9,
+                "start_time": 29.6,
+                "word": "오는"
+            },
+            {
+                "end_time": 30.3,
+                "start_time": 29.9,
+                "word": "사람도"
+            },
+            {
+                "end_time": 30.9,
+                "start_time": 30.3,
+                "word": "많은데요"
+            },
+            {
+                "end_time": 33.0,
+                "start_time": 30.9,
+                "word": "어떻게"
+            },
+            {
+                "end_time": 33.3,
+                "start_time": 33.0,
+                "word": "해야"
+            },
+            {
+                "end_time": 34.0,
+                "start_time": 33.3,
+                "word": "한국어를"
+            },
+            {
+                "end_time": 34.4,
+                "start_time": 34.0,
+                "word": "잘할"
+            },
+            {
+                "end_time": 34.6,
+                "start_time": 34.4,
+                "word": "수"
+            },
+            {
+                "end_time": 35.1,
+                "start_time": 34.6,
+                "word": "있을까"
+            },
+            {
+                "end_time": 36.1,
+                "start_time": 35.1,
+                "word": "고민"
+            },
+            {
+                "end_time": 36.3,
+                "start_time": 36.1,
+                "word": "하는"
+            },
+            {
+                "end_time": 36.6,
+                "start_time": 36.3,
+                "word": "분들을"
+            },
+            {
+                "end_time": 36.6,
+                "start_time": 36.6,
+                "word": "위해"
+            },
+            {
+                "end_time": 37.3,
+                "start_time": 36.6,
+                "word": "준비한"
+            },
+            {
+                "end_time": 39.2,
+                "start_time": 37.3,
+                "word": "세종한국어회화"
+            },
+            {
+                "end_time": 40.3,
+                "start_time": 39.2,
+                "word": "첫"
+            },
+            {
+                "end_time": 40.8,
+                "start_time": 40.3,
+                "word": "수업을"
+            },
+            {
+                "end_time": 41.3,
+                "start_time": 40.8,
+                "word": "시작합니다"
+            },
+            {
+                "end_time": 60.1,
+                "start_time": 41.3,
+                "word": "드라마"
+            },
+            {
+                "end_time": 60.3,
+                "start_time": 60.1,
+                "word": "속"
+            },
+            {
+                "end_time": 60.9,
+                "start_time": 60.3,
+                "word": "장면을"
+            },
+            {
+                "end_time": 61.1,
+                "start_time": 60.9,
+                "word": "보고"
+            },
+            {
+                "end_time": 62.0,
+                "start_time": 61.1,
+                "word": "그"
+            },
+            {
+                "end_time": 62.3,
+                "start_time": 62.0,
+                "word": "안에"
+            },
+            {
+                "end_time": 62.8,
+                "start_time": 62.3,
+                "word": "나오는"
+            },
+            {
+                "end_time": 63.4,
+                "start_time": 62.8,
+                "word": "한국어로"
+            },
+            {
+                "end_time": 63.8,
+                "start_time": 63.4,
+                "word": "배워요"
+            },
+            {
+                "end_time": 65.2,
+                "start_time": 63.8,
+                "word": "오늘"
+            }
+        ]
+    },
+    {
+        "transcript": "함께 볼까요",
+        "confidence": 0.9236595630645752,
+        "words": [
+            {
+                "end_time": 66.3,
+                "start_time": 65.3,
+                "word": "함께"
+            },
+            {
+                "end_time": 66.8,
+                "start_time": 66.3,
+                "word": "볼까요"
+            }
+        ]
+    },
+    {
+        "transcript": " 제가 첫눈에 반한 그녀는 한국 사랑한다 그리고 그녀의 이름은 love입니다 그리고",
+        "confidence": 0.8251825571060181,
+        "words": [
+            {
+                "end_time": 72.0,
+                "start_time": 70.9,
+                "word": "제가"
+            },
+            {
+                "end_time": 72.4,
+                "start_time": 72.0,
+                "word": "첫눈에"
+            },
+            {
+                "end_time": 72.7,
+                "start_time": 72.4,
+                "word": "반한"
+            },
+            {
+                "end_time": 73.2,
+                "start_time": 72.7,
+                "word": "그녀는"
+            },
+            {
+                "end_time": 74.2,
+                "start_time": 73.2,
+                "word": "한국"
+            },
+            {
+                "end_time": 74.8,
+                "start_time": 74.2,
+                "word": "사랑한다"
+            },
+            {
+                "end_time": 75.5,
+                "start_time": 74.8,
+                "word": "그리고"
+            },
+            {
+                "end_time": 76.6,
+                "start_time": 75.5,
+                "word": "그녀의"
+            },
+            {
+                "end_time": 77.0,
+                "start_time": 76.6,
+                "word": "이름은"
+            },
+            {
+                "end_time": 79.0,
+                "start_time": 77.0,
+                "word": "love"
+            },
+            {
+                "end_time": 79.8,
+                "start_time": 79.0,
+                "word": "입니다"
+            },
+            {
+                "end_time": 81.1,
+                "start_time": 79.8,
+                "word": "그리고"
+            }
+        ]
+    },
+    {
+        "transcript": " 어떡하죠",
+        "confidence": 0.9236595630645752,
+        "words": [
+            {
+                "end_time": 88.1,
+                "start_time": 84.4,
+                "word": "어떡하죠"
+            }
+        ]
+    },
+    {
+        "transcript": " 저 그녀를 다시 만나고 싶습니다 찾고 싶어서 그래서 한국어를 배우고 있다 진짜 한국에 갈 생각이고 그 어느 때보다 난 진지하다",
+        "confidence": 0.8662766218185425,
+        "words": [
+            {
+                "end_time": 90.4,
+                "start_time": 89.8,
+                "word": "저"
+            },
+            {
+                "end_time": 90.7,
+                "start_time": 90.4,
+                "word": "그녀를"
+            },
+            {
+                "end_time": 90.7,
+                "start_time": 90.7,
+                "word": "다시"
+            },
+            {
+                "end_time": 91.3,
+                "start_time": 90.7,
+                "word": "만나고"
+            },
+            {
+                "end_time": 91.6,
+                "start_time": 91.3,
+                "word": "싶습니다"
+            },
+            {
+                "end_time": 92.9,
+                "start_time": 91.6,
+                "word": "찾고"
+            },
+            {
+                "end_time": 93.2,
+                "start_time": 92.9,
+                "word": "싶어서"
+            },
+            {
+                "end_time": 94.0,
+                "start_time": 93.2,
+                "word": "그래서"
+            },
+            {
+                "end_time": 94.4,
+                "start_time": 94.0,
+                "word": "한국어를"
+            },
+            {
+                "end_time": 94.7,
+                "start_time": 94.4,
+                "word": "배우고"
+            },
+            {
+                "end_time": 94.8,
+                "start_time": 94.7,
+                "word": "있다"
+            },
+            {
+                "end_time": 96.9,
+                "start_time": 94.8,
+                "word": "진짜"
+            },
+            {
+                "end_time": 97.2,
+                "start_time": 96.9,
+                "word": "한국에"
+            },
+            {
+                "end_time": 97.3,
+                "start_time": 97.2,
+                "word": "갈"
+            },
+            {
+                "end_time": 97.8,
+                "start_time": 97.3,
+                "word": "생각이고"
+            },
+            {
+                "end_time": 100.7,
+                "start_time": 97.8,
+                "word": "그"
+            },
+            {
+                "end_time": 101.0,
+                "start_time": 100.7,
+                "word": "어느"
+            },
+            {
+                "end_time": 101.4,
+                "start_time": 101.0,
+                "word": "때보다"
+            },
+            {
+                "end_time": 102.6,
+                "start_time": 101.4,
+                "word": "난"
+            },
+            {
+                "end_time": 103.2,
+                "start_time": 102.6,
+                "word": "진지하다"
+            }
+        ]
+    },
+    {
+        "transcript": " 먹통이네요 목동 이름을 잘 모르시겠다 기계가 작동 안 된다는데 진짜 이거 화면까지도 안 나오니까 먹통 맞네 되게 잘 하시네요 제가 네덜란드 여행 갔던 되거든요 이름이 뭔지 어디 사는지는 잘 기억이 잘 안 나는데 그냥 그 여자 찾고 싶은 마음에 한국어 공부 좀 열심히 했어요",
+        "confidence": 0.8709924221038818,
+        "words": [
+            {
+                "end_time": 114.0,
+                "start_time": 107.1,
+                "word": "먹통이네요"
+            },
+            {
+                "end_time": 116.0,
+                "start_time": 114.0,
+                "word": "목동"
+            },
+            {
+                "end_time": 116.3,
+                "start_time": 116.0,
+                "word": "이름을"
+            },
+            {
+                "end_time": 116.4,
+                "start_time": 116.3,
+                "word": "잘"
+            },
+            {
+                "end_time": 117.0,
+                "start_time": 116.4,
+                "word": "모르시겠다"
+            },
+            {
+                "end_time": 120.3,
+                "start_time": 117.0,
+                "word": "기계가"
+            },
+            {
+                "end_time": 120.6,
+                "start_time": 120.3,
+                "word": "작동"
+            },
+            {
+                "end_time": 120.7,
+                "start_time": 120.6,
+                "word": "안"
+            },
+            {
+                "end_time": 121.1,
+                "start_time": 120.7,
+                "word": "된다는데"
+            },
+            {
+                "end_time": 121.4,
+                "start_time": 121.1,
+                "word": "진짜"
+            },
+            {
+                "end_time": 121.9,
+                "start_time": 121.4,
+                "word": "이거"
+            },
+            {
+                "end_time": 122.3,
+                "start_time": 121.9,
+                "word": "화면"
+            },
+            {
+                "end_time": 122.6,
+                "start_time": 122.3,
+                "word": "까지도"
+            },
+            {
+                "end_time": 122.7,
+                "start_time": 122.6,
+                "word": "안"
+            },
+            {
+                "end_time": 123.1,
+                "start_time": 122.7,
+                "word": "나오니까"
+            },
+            {
+                "end_time": 124.3,
+                "start_time": 123.1,
+                "word": "먹통"
+            },
+            {
+                "end_time": 124.6,
+                "start_time": 124.3,
+                "word": "맞네"
+            },
+            {
+                "end_time": 125.8,
+                "start_time": 124.6,
+                "word": "되게"
+            },
+            {
+                "end_time": 126.1,
+                "start_time": 125.8,
+                "word": "잘"
+            },
+            {
+                "end_time": 126.5,
+                "start_time": 126.1,
+                "word": "하시네요"
+            },
+            {
+                "end_time": 128.4,
+                "start_time": 126.5,
+                "word": "제가"
+            },
+            {
+                "end_time": 129.0,
+                "start_time": 128.4,
+                "word": "네덜란드"
+            },
+            {
+                "end_time": 129.3,
+                "start_time": 129.0,
+                "word": "여행"
+            },
+            {
+                "end_time": 129.5,
+                "start_time": 129.3,
+                "word": "갔던"
+            },
+            {
+                "end_time": 132.2,
+                "start_time": 129.5,
+                "word": "되거든요"
+            },
+            {
+                "end_time": 132.9,
+                "start_time": 132.2,
+                "word": "이름이"
+            },
+            {
+                "end_time": 133.3,
+                "start_time": 132.9,
+                "word": "뭔지"
+            },
+            {
+                "end_time": 133.5,
+                "start_time": 133.3,
+                "word": "어디"
+            },
+            {
+                "end_time": 134.0,
+                "start_time": 133.5,
+                "word": "사는지는"
+            },
+            {
+                "end_time": 134.3,
+                "start_time": 134.0,
+                "word": "잘"
+            },
+            {
+                "end_time": 134.6,
+                "start_time": 134.3,
+                "word": "기억이"
+            },
+            {
+                "end_time": 134.7,
+                "start_time": 134.6,
+                "word": "잘"
+            },
+            {
+                "end_time": 134.9,
+                "start_time": 134.7,
+                "word": "안"
+            },
+            {
+                "end_time": 135.1,
+                "start_time": 134.9,
+                "word": "나는데"
+            },
+            {
+                "end_time": 136.6,
+                "start_time": 135.1,
+                "word": "그냥"
+            },
+            {
+                "end_time": 137.0,
+                "start_time": 136.6,
+                "word": "그"
+            },
+            {
+                "end_time": 137.2,
+                "start_time": 137.0,
+                "word": "여자"
+            },
+            {
+                "end_time": 137.4,
+                "start_time": 137.2,
+                "word": "찾고"
+            },
+            {
+                "end_time": 137.8,
+                "start_time": 137.4,
+                "word": "싶은"
+            },
+            {
+                "end_time": 138.1,
+                "start_time": 137.8,
+                "word": "마음에"
+            },
+            {
+                "end_time": 139.3,
+                "start_time": 138.1,
+                "word": "한국어"
+            },
+            {
+                "end_time": 139.5,
+                "start_time": 139.3,
+                "word": "공부"
+            },
+            {
+                "end_time": 139.7,
+                "start_time": 139.5,
+                "word": "좀"
+            },
+            {
+                "end_time": 139.7,
+                "start_time": 139.7,
+                "word": "열심히"
+            },
+            {
+                "end_time": 140.3,
+                "start_time": 139.7,
+                "word": "했어요"
+            }
+        ]
+    },
+    {
+        "transcript": " 고마워요 저 아니에요 네덜란드입니다 한국 사람이에요",
+        "confidence": 0.8813737034797668,
+        "words": [
+            {
+                "end_time": 144.4,
+                "start_time": 142.9,
+                "word": "고마워요"
+            },
+            {
+                "end_time": 145.4,
+                "start_time": 144.4,
+                "word": "저"
+            },
+            {
+                "end_time": 145.7,
+                "start_time": 145.4,
+                "word": "아니에요"
+            },
+            {
+                "end_time": 146.5,
+                "start_time": 145.7,
+                "word": "네덜란드"
+            },
+            {
+                "end_time": 148.3,
+                "start_time": 146.5,
+                "word": "입니다"
+            },
+            {
+                "end_time": 149.1,
+                "start_time": 148.3,
+                "word": "한국"
+            },
+            {
+                "end_time": 149.5,
+                "start_time": 149.1,
+                "word": "사람이에요"
+            }
+        ]
+    },
+    {
+        "transcript": " 얘는 네덜란드 사람입니다 네덜란드에서 한국 여자를 만났어요 그 사람이 누구예요 잘 몰라요 하지만 그 찾고 싶습니다 그래서 한국에 갑니다 비행기 안에서 한국 사람을 만나 인사하는 장면을 봤는데요 오늘은 자기 소개하기를 공부합니다 자신의 이름과 직업 국적을 소개할 때 어떻게 말하는지 한번 확인해 보시죠 안녕하세요 저는 이지은이에요 안녕하세요 저는 마크 스위스예요 어느 나라 사람이에요 저는 미국 사람이에요 회사원이에요 아니에요",
+        "confidence": 0.9081061482429504,
+        "words": [
+            {
+                "end_time": 153.6,
+                "start_time": 152.8,
+                "word": "얘는"
+            },
+            {
+                "end_time": 154.6,
+                "start_time": 153.6,
+                "word": "네덜란드"
+            },
+            {
+                "end_time": 155.3,
+                "start_time": 154.6,
+                "word": "사람입니다"
+            },
+            {
+                "end_time": 157.3,
+                "start_time": 155.3,
+                "word": "네덜란드에서"
+            },
+            {
+                "end_time": 158.0,
+                "start_time": 157.3,
+                "word": "한국"
+            },
+            {
+                "end_time": 158.3,
+                "start_time": 158.0,
+                "word": "여자를"
+            },
+            {
+                "end_time": 159.1,
+                "start_time": 158.3,
+                "word": "만났어요"
+            },
+            {
+                "end_time": 160.3,
+                "start_time": 159.1,
+                "word": "그"
+            },
+            {
+                "end_time": 160.8,
+                "start_time": 160.3,
+                "word": "사람이"
+            },
+            {
+                "end_time": 161.4,
+                "start_time": 160.8,
+                "word": "누구예요"
+            },
+            {
+                "end_time": 162.8,
+                "start_time": 161.4,
+                "word": "잘"
+            },
+            {
+                "end_time": 163.3,
+                "start_time": 162.8,
+                "word": "몰라요"
+            },
+            {
+                "end_time": 164.6,
+                "start_time": 163.3,
+                "word": "하지만"
+            },
+            {
+                "end_time": 164.8,
+                "start_time": 164.6,
+                "word": "그"
+            },
+            {
+                "end_time": 165.7,
+                "start_time": 164.8,
+                "word": "찾고"
+            },
+            {
+                "end_time": 166.0,
+                "start_time": 165.7,
+                "word": "싶습니다"
+            },
+            {
+                "end_time": 167.9,
+                "start_time": 166.0,
+                "word": "그래서"
+            },
+            {
+                "end_time": 168.8,
+                "start_time": 167.9,
+                "word": "한국에"
+            },
+            {
+                "end_time": 169.3,
+                "start_time": 168.8,
+                "word": "갑니다"
+            },
+            {
+                "end_time": 171.1,
+                "start_time": 169.3,
+                "word": "비행기"
+            },
+            {
+                "end_time": 171.6,
+                "start_time": 171.1,
+                "word": "안에서"
+            },
+            {
+                "end_time": 172.1,
+                "start_time": 171.6,
+                "word": "한국"
+            },
+            {
+                "end_time": 172.5,
+                "start_time": 172.1,
+                "word": "사람을"
+            },
+            {
+                "end_time": 172.9,
+                "start_time": 172.5,
+                "word": "만나"
+            },
+            {
+                "end_time": 173.7,
+                "start_time": 172.9,
+                "word": "인사하는"
+            },
+            {
+                "end_time": 174.3,
+                "start_time": 173.7,
+                "word": "장면을"
+            },
+            {
+                "end_time": 174.9,
+                "start_time": 174.3,
+                "word": "봤는데요"
+            },
+            {
+                "end_time": 176.8,
+                "start_time": 174.9,
+                "word": "오늘은"
+            },
+            {
+                "end_time": 177.5,
+                "start_time": 176.8,
+                "word": "자기"
+            },
+            {
+                "end_time": 178.2,
+                "start_time": 177.5,
+                "word": "소개하기를"
+            },
+            {
+                "end_time": 178.9,
+                "start_time": 178.2,
+                "word": "공부합니다"
+            },
+            {
+                "end_time": 181.0,
+                "start_time": 178.9,
+                "word": "자신의"
+            },
+            {
+                "end_time": 181.7,
+                "start_time": 181.0,
+                "word": "이름과"
+            },
+            {
+                "end_time": 182.7,
+                "start_time": 181.7,
+                "word": "직업"
+            },
+            {
+                "end_time": 183.9,
+                "start_time": 182.7,
+                "word": "국적을"
+            },
+            {
+                "end_time": 184.3,
+                "start_time": 183.9,
+                "word": "소개할"
+            },
+            {
+                "end_time": 184.5,
+                "start_time": 184.3,
+                "word": "때"
+            },
+            {
+                "end_time": 185.2,
+                "start_time": 184.5,
+                "word": "어떻게"
+            },
+            {
+                "end_time": 185.7,
+                "start_time": 185.2,
+                "word": "말하는지"
+            },
+            {
+                "end_time": 187.2,
+                "start_time": 185.7,
+                "word": "한번"
+            },
+            {
+                "end_time": 187.7,
+                "start_time": 187.2,
+                "word": "확인해"
+            },
+            {
+                "end_time": 187.9,
+                "start_time": 187.7,
+                "word": "보시죠"
+            },
+            {
+                "end_time": 197.7,
+                "start_time": 187.9,
+                "word": "안녕하세요"
+            },
+            {
+                "end_time": 198.2,
+                "start_time": 197.7,
+                "word": "저는"
+            },
+            {
+                "end_time": 198.8,
+                "start_time": 198.2,
+                "word": "이지은"
+            },
+            {
+                "end_time": 199.2,
+                "start_time": 198.8,
+                "word": "이에요"
+            },
+            {
+                "end_time": 200.6,
+                "start_time": 199.2,
+                "word": "안녕하세요"
+            },
+            {
+                "end_time": 201.8,
+                "start_time": 200.6,
+                "word": "저는"
+            },
+            {
+                "end_time": 202.4,
+                "start_time": 201.8,
+                "word": "마크"
+            },
+            {
+                "end_time": 202.8,
+                "start_time": 202.4,
+                "word": "스위스"
+            },
+            {
+                "end_time": 203.1,
+                "start_time": 202.8,
+                "word": "예요"
+            },
+            {
+                "end_time": 204.8,
+                "start_time": 203.1,
+                "word": "어느"
+            },
+            {
+                "end_time": 205.0,
+                "start_time": 204.8,
+                "word": "나라"
+            },
+            {
+                "end_time": 205.5,
+                "start_time": 205.0,
+                "word": "사람이에요"
+            },
+            {
+                "end_time": 206.8,
+                "start_time": 205.5,
+                "word": "저는"
+            },
+            {
+                "end_time": 207.4,
+                "start_time": 206.8,
+                "word": "미국"
+            },
+            {
+                "end_time": 207.9,
+                "start_time": 207.4,
+                "word": "사람이에요"
+            },
+            {
+                "end_time": 210.6,
+                "start_time": 207.9,
+                "word": "회사원이에요"
+            },
+            {
+                "end_time": 211.9,
+                "start_time": 210.6,
+                "word": "아니에요"
+            }
+        ]
+    },
+    {
+        "transcript": " 변호사에요 지영 씨는 무슨 일 하세요 대학생이에요",
+        "confidence": 0.9192461371421814,
+        "words": [
+            {
+                "end_time": 213.8,
+                "start_time": 212.7,
+                "word": "변호사"
+            },
+            {
+                "end_time": 214.2,
+                "start_time": 213.8,
+                "word": "에요"
+            },
+            {
+                "end_time": 215.3,
+                "start_time": 214.2,
+                "word": "지영"
+            },
+            {
+                "end_time": 215.5,
+                "start_time": 215.3,
+                "word": "씨는"
+            },
+            {
+                "end_time": 216.2,
+                "start_time": 215.5,
+                "word": "무슨"
+            },
+            {
+                "end_time": 216.5,
+                "start_time": 216.2,
+                "word": "일"
+            },
+            {
+                "end_time": 216.8,
+                "start_time": 216.5,
+                "word": "하세요"
+            },
+            {
+                "end_time": 219.0,
+                "start_time": 216.8,
+                "word": "대학생이에요"
+            }
+        ]
+    },
+    {
+        "transcript": " 두 사람이 처음 만났어요 인사를 합니다 그리고 자기 소개를 해요 보통 자기 소개를 할 때 무엇을 이야기해요 먼저 인사를 하고 이름 국적 직업을 많이 이야기하지요",
+        "confidence": 0.8916465044021606,
+        "words": [
+            {
+                "end_time": 222.5,
+                "start_time": 222.0,
+                "word": "두"
+            },
+            {
+                "end_time": 223.1,
+                "start_time": 222.5,
+                "word": "사람이"
+            },
+            {
+                "end_time": 223.6,
+                "start_time": 223.1,
+                "word": "처음"
+            },
+            {
+                "end_time": 224.6,
+                "start_time": 223.6,
+                "word": "만났어요"
+            },
+            {
+                "end_time": 226.2,
+                "start_time": 224.6,
+                "word": "인사를"
+            },
+            {
+                "end_time": 226.4,
+                "start_time": 226.2,
+                "word": "합니다"
+            },
+            {
+                "end_time": 227.9,
+                "start_time": 226.4,
+                "word": "그리고"
+            },
+            {
+                "end_time": 228.7,
+                "start_time": 227.9,
+                "word": "자기"
+            },
+            {
+                "end_time": 229.1,
+                "start_time": 228.7,
+                "word": "소개를"
+            },
+            {
+                "end_time": 229.4,
+                "start_time": 229.1,
+                "word": "해요"
+            },
+            {
+                "end_time": 231.5,
+                "start_time": 229.4,
+                "word": "보통"
+            },
+            {
+                "end_time": 232.0,
+                "start_time": 231.5,
+                "word": "자기"
+            },
+            {
+                "end_time": 232.3,
+                "start_time": 232.0,
+                "word": "소개를"
+            },
+            {
+                "end_time": 232.4,
+                "start_time": 232.3,
+                "word": "할"
+            },
+            {
+                "end_time": 232.7,
+                "start_time": 232.4,
+                "word": "때"
+            },
+            {
+                "end_time": 233.9,
+                "start_time": 232.7,
+                "word": "무엇을"
+            },
+            {
+                "end_time": 234.7,
+                "start_time": 233.9,
+                "word": "이야기해요"
+            },
+            {
+                "end_time": 236.7,
+                "start_time": 234.7,
+                "word": "먼저"
+            },
+            {
+                "end_time": 237.2,
+                "start_time": 236.7,
+                "word": "인사를"
+            },
+            {
+                "end_time": 237.6,
+                "start_time": 237.2,
+                "word": "하고"
+            },
+            {
+                "end_time": 239.1,
+                "start_time": 237.6,
+                "word": "이름"
+            },
+            {
+                "end_time": 240.7,
+                "start_time": 239.1,
+                "word": "국적"
+            },
+            {
+                "end_time": 241.6,
+                "start_time": 240.7,
+                "word": "직업을"
+            },
+            {
+                "end_time": 241.9,
+                "start_time": 241.6,
+                "word": "많이"
+            },
+            {
+                "end_time": 242.7,
+                "start_time": 241.9,
+                "word": "이야기하지요"
+            }
+        ]
+    },
+    {
+        "transcript": " 마크 씨와 지은 씨가 어떻게 자기 소개를 해요 저와 같이 한 문장씩 알아볼게요",
+        "confidence": 0.842682421207428,
+        "words": [
+            {
+                "end_time": 245.1,
+                "start_time": 243.9,
+                "word": "마크"
+            },
+            {
+                "end_time": 245.6,
+                "start_time": 245.1,
+                "word": "씨와"
+            },
+            {
+                "end_time": 246.0,
+                "start_time": 245.6,
+                "word": "지은"
+            },
+            {
+                "end_time": 246.2,
+                "start_time": 246.0,
+                "word": "씨가"
+            },
+            {
+                "end_time": 247.0,
+                "start_time": 246.2,
+                "word": "어떻게"
+            },
+            {
+                "end_time": 247.4,
+                "start_time": 247.0,
+                "word": "자기"
+            },
+            {
+                "end_time": 247.7,
+                "start_time": 247.4,
+                "word": "소개를"
+            },
+            {
+                "end_time": 248.1,
+                "start_time": 247.7,
+                "word": "해요"
+            },
+            {
+                "end_time": 250.2,
+                "start_time": 248.1,
+                "word": "저와"
+            },
+            {
+                "end_time": 250.5,
+                "start_time": 250.2,
+                "word": "같이"
+            },
+            {
+                "end_time": 251.3,
+                "start_time": 250.5,
+                "word": "한"
+            },
+            {
+                "end_time": 251.8,
+                "start_time": 251.3,
+                "word": "문장씩"
+            },
+            {
+                "end_time": 252.6,
+                "start_time": 251.8,
+                "word": "알아볼게요"
+            }
+        ]
+    },
+    {
+        "transcript": " 처음 만났습니다 그래서 인사를 합니다 따라 하세요 안녕하세요 다음에 봅시다 두 사람이 국적 나라를 이야기합니다",
+        "confidence": 0.8260928392410278,
+        "words": [
+            {
+                "end_time": 255.7,
+                "start_time": 253.6,
+                "word": "처음"
+            },
+            {
+                "end_time": 256.1,
+                "start_time": 255.7,
+                "word": "만났습니다"
+            },
+            {
+                "end_time": 258.0,
+                "start_time": 256.1,
+                "word": "그래서"
+            },
+            {
+                "end_time": 258.7,
+                "start_time": 258.0,
+                "word": "인사를"
+            },
+            {
+                "end_time": 258.9,
+                "start_time": 258.7,
+                "word": "합니다"
+            },
+            {
+                "end_time": 260.7,
+                "start_time": 258.9,
+                "word": "따라"
+            },
+            {
+                "end_time": 260.9,
+                "start_time": 260.7,
+                "word": "하세요"
+            },
+            {
+                "end_time": 262.6,
+                "start_time": 260.9,
+                "word": "안녕하세요"
+            },
+            {
+                "end_time": 264.7,
+                "start_time": 262.6,
+                "word": "다음에"
+            },
+            {
+                "end_time": 265.2,
+                "start_time": 264.7,
+                "word": "봅시다"
+            },
+            {
+                "end_time": 266.7,
+                "start_time": 265.2,
+                "word": "두"
+            },
+            {
+                "end_time": 267.3,
+                "start_time": 266.7,
+                "word": "사람이"
+            },
+            {
+                "end_time": 268.8,
+                "start_time": 267.3,
+                "word": "국적"
+            },
+            {
+                "end_time": 269.5,
+                "start_time": 268.8,
+                "word": "나라를"
+            },
+            {
+                "end_time": 270.1,
+                "start_time": 269.5,
+                "word": "이야기합니다"
+            }
+        ]
+    },
+    {
+        "transcript": " 지훈 씨가 마크 씨에게 어느 나라 사람이에요 하고 질문하자 마크 씨가 대답합니다",
+        "confidence": 0.8460837006568909,
+        "words": [
+            {
+                "end_time": 272.2,
+                "start_time": 271.4,
+                "word": "지훈"
+            },
+            {
+                "end_time": 272.4,
+                "start_time": 272.2,
+                "word": "씨가"
+            },
+            {
+                "end_time": 272.9,
+                "start_time": 272.4,
+                "word": "마크"
+            },
+            {
+                "end_time": 273.4,
+                "start_time": 272.9,
+                "word": "씨에게"
+            },
+            {
+                "end_time": 274.7,
+                "start_time": 273.4,
+                "word": "어느"
+            },
+            {
+                "end_time": 275.0,
+                "start_time": 274.7,
+                "word": "나라"
+            },
+            {
+                "end_time": 275.5,
+                "start_time": 275.0,
+                "word": "사람이에요"
+            },
+            {
+                "end_time": 276.7,
+                "start_time": 275.5,
+                "word": "하고"
+            },
+            {
+                "end_time": 277.4,
+                "start_time": 276.7,
+                "word": "질문하자"
+            },
+            {
+                "end_time": 278.5,
+                "start_time": 277.4,
+                "word": "마크"
+            },
+            {
+                "end_time": 278.8,
+                "start_time": 278.5,
+                "word": "씨가"
+            },
+            {
+                "end_time": 279.3,
+                "start_time": 278.8,
+                "word": "대답합니다"
+            }
+        ]
+    },
+    {
+        "transcript": " 저는 미국 사람이에요",
+        "confidence": 0.9236595630645752,
+        "words": [
+            {
+                "end_time": 281.4,
+                "start_time": 280.1,
+                "word": "저는"
+            },
+            {
+                "end_time": 281.7,
+                "start_time": 281.4,
+                "word": "미국"
+            },
+            {
+                "end_time": 282.2,
+                "start_time": 281.7,
+                "word": "사람이에요"
+            }
+        ]
+    },
+    {
+        "transcript": " 다른 사람이 저에게 어느 나라 사람이에요 하고 질문하면 저는 한국 사람이에요라고 말합니다 자 여러분 다른 나라 이름을 한국어로 어떻게 이야기해요 잘 듣고 따라해보세요 한국 중국",
+        "confidence": 0.879780650138855,
+        "words": [
+            {
+                "end_time": 284.4,
+                "start_time": 283.4,
+                "word": "다른"
+            },
+            {
+                "end_time": 284.8,
+                "start_time": 284.4,
+                "word": "사람이"
+            },
+            {
+                "end_time": 285.3,
+                "start_time": 284.8,
+                "word": "저에게"
+            },
+            {
+                "end_time": 286.2,
+                "start_time": 285.3,
+                "word": "어느"
+            },
+            {
+                "end_time": 286.4,
+                "start_time": 286.2,
+                "word": "나라"
+            },
+            {
+                "end_time": 287.0,
+                "start_time": 286.4,
+                "word": "사람이에요"
+            },
+            {
+                "end_time": 288.2,
+                "start_time": 287.0,
+                "word": "하고"
+            },
+            {
+                "end_time": 289.1,
+                "start_time": 288.2,
+                "word": "질문하면"
+            },
+            {
+                "end_time": 290.8,
+                "start_time": 289.1,
+                "word": "저는"
+            },
+            {
+                "end_time": 291.6,
+                "start_time": 290.8,
+                "word": "한국"
+            },
+            {
+                "end_time": 292.1,
+                "start_time": 291.6,
+                "word": "사람이에요"
+            },
+            {
+                "end_time": 293.5,
+                "start_time": 292.1,
+                "word": "라고"
+            },
+            {
+                "end_time": 293.9,
+                "start_time": 293.5,
+                "word": "말합니다"
+            },
+            {
+                "end_time": 296.0,
+                "start_time": 293.9,
+                "word": "자"
+            },
+            {
+                "end_time": 296.5,
+                "start_time": 296.0,
+                "word": "여러분"
+            },
+            {
+                "end_time": 297.7,
+                "start_time": 296.5,
+                "word": "다른"
+            },
+            {
+                "end_time": 297.9,
+                "start_time": 297.7,
+                "word": "나라"
+            },
+            {
+                "end_time": 298.6,
+                "start_time": 297.9,
+                "word": "이름을"
+            },
+            {
+                "end_time": 299.1,
+                "start_time": 298.6,
+                "word": "한국어로"
+            },
+            {
+                "end_time": 299.7,
+                "start_time": 299.1,
+                "word": "어떻게"
+            },
+            {
+                "end_time": 300.7,
+                "start_time": 299.7,
+                "word": "이야기해요"
+            },
+            {
+                "end_time": 302.6,
+                "start_time": 300.7,
+                "word": "잘"
+            },
+            {
+                "end_time": 303.0,
+                "start_time": 302.6,
+                "word": "듣고"
+            },
+            {
+                "end_time": 304.1,
+                "start_time": 303.0,
+                "word": "따라해보세요"
+            },
+            {
+                "end_time": 307.0,
+                "start_time": 304.1,
+                "word": "한국"
+            },
+            {
+                "end_time": 309.0,
+                "start_time": 307.0,
+                "word": "중국"
+            }
+        ]
+    },
+    {
+        "transcript": " 프랑스",
+        "confidence": 0.9236595630645752,
+        "words": [
+            {
+                "end_time": 311.4,
+                "start_time": 310.4,
+                "word": "프랑스"
+            }
+        ]
+    },
+    {
+        "transcript": " 브라질",
+        "confidence": 0.587041437625885,
+        "words": [
+            {
+                "end_time": 313.9,
+                "start_time": 312.7,
+                "word": "브라질"
+            }
+        ]
+    },
+    {
+        "transcript": " 미국",
+        "confidence": 0.9236595630645752,
+        "words": [
+            {
+                "end_time": 316.0,
+                "start_time": 315.3,
+                "word": "미국"
+            }
+        ]
+    },
+    {
+        "transcript": " 케냐 호주",
+        "confidence": 0.9236595630645752,
+        "words": [
+            {
+                "end_time": 318.3,
+                "start_time": 317.5,
+                "word": "케냐"
+            },
+            {
+                "end_time": 320.2,
+                "start_time": 318.3,
+                "word": "호주"
+            }
+        ]
+    },
+    {
+        "transcript": " 베트남",
+        "confidence": 0.9236595630645752,
+        "words": [
+            {
+                "end_time": 322.5,
+                "start_time": 321.4,
+                "word": "베트남"
+            }
+        ]
+    },
+    {
+        "transcript": " 이탈리아",
+        "confidence": 0.9236595630645752,
+        "words": [
+            {
+                "end_time": 324.6,
+                "start_time": 323.6,
+                "word": "이탈리아"
+            }
+        ]
+    },
+    {
+        "transcript": " 여기서 한가지 팁을 소개할게요",
+        "confidence": 0.8732993602752686,
+        "words": [
+            {
+                "end_time": 327.7,
+                "start_time": 326.3,
+                "word": "여기서"
+            },
+            {
+                "end_time": 328.1,
+                "start_time": 327.7,
+                "word": "한가지"
+            },
+            {
+                "end_time": 328.5,
+                "start_time": 328.1,
+                "word": "팁을"
+            },
+            {
+                "end_time": 329.5,
+                "start_time": 328.5,
+                "word": "소개할게요"
+            }
+        ]
+    },
+    {
+        "transcript": " 미국 사람이에요 한국 사람이에요 할 때 미국사람과 한국 사람 뒤에 나오는이에요 명사뒤에 사용 합니다 그래서 책 책이에요 문장으로 이야기합니다 구두 구두에요",
+        "confidence": 0.862108051776886,
+        "words": [
+            {
+                "end_time": 331.8,
+                "start_time": 331.1,
+                "word": "미국"
+            },
+            {
+                "end_time": 332.3,
+                "start_time": 331.8,
+                "word": "사람이에요"
+            },
+            {
+                "end_time": 333.8,
+                "start_time": 332.3,
+                "word": "한국"
+            },
+            {
+                "end_time": 334.7,
+                "start_time": 333.8,
+                "word": "사람이에요"
+            },
+            {
+                "end_time": 336.1,
+                "start_time": 334.7,
+                "word": "할"
+            },
+            {
+                "end_time": 336.3,
+                "start_time": 336.1,
+                "word": "때"
+            },
+            {
+                "end_time": 338.3,
+                "start_time": 336.3,
+                "word": "미국사람과"
+            },
+            {
+                "end_time": 339.1,
+                "start_time": 338.3,
+                "word": "한국"
+            },
+            {
+                "end_time": 339.4,
+                "start_time": 339.1,
+                "word": "사람"
+            },
+            {
+                "end_time": 339.7,
+                "start_time": 339.4,
+                "word": "뒤에"
+            },
+            {
+                "end_time": 340.3,
+                "start_time": 339.7,
+                "word": "나오는"
+            },
+            {
+                "end_time": 341.5,
+                "start_time": 340.3,
+                "word": "이에요"
+            },
+            {
+                "end_time": 344.9,
+                "start_time": 341.5,
+                "word": "명사뒤에"
+            },
+            {
+                "end_time": 345.2,
+                "start_time": 344.9,
+                "word": "사용"
+            },
+            {
+                "end_time": 345.4,
+                "start_time": 345.2,
+                "word": "합니다"
+            },
+            {
+                "end_time": 347.8,
+                "start_time": 345.4,
+                "word": "그래서"
+            },
+            {
+                "end_time": 348.9,
+                "start_time": 347.8,
+                "word": "책"
+            },
+            {
+                "end_time": 350.7,
+                "start_time": 348.9,
+                "word": "책이에요"
+            },
+            {
+                "end_time": 353.4,
+                "start_time": 350.7,
+                "word": "문장으로"
+            },
+            {
+                "end_time": 353.9,
+                "start_time": 353.4,
+                "word": "이야기합니다"
+            },
+            {
+                "end_time": 355.8,
+                "start_time": 353.9,
+                "word": "구두"
+            },
+            {
+                "end_time": 358.1,
+                "start_time": 355.8,
+                "word": "구두에요"
+            }
+        ]
+    },
+    {
+        "transcript": " 그림을 보고 함께 말해 볼까요 뭐예요 책이예요 누구예요 가족이 뭐예요 모자예요",
+        "confidence": 0.8493072390556335,
+        "words": [
+            {
+                "end_time": 360.8,
+                "start_time": 359.3,
+                "word": "그림을"
+            },
+            {
+                "end_time": 361.0,
+                "start_time": 360.8,
+                "word": "보고"
+            },
+            {
+                "end_time": 361.8,
+                "start_time": 361.0,
+                "word": "함께"
+            },
+            {
+                "end_time": 362.0,
+                "start_time": 361.8,
+                "word": "말해"
+            },
+            {
+                "end_time": 362.4,
+                "start_time": 362.0,
+                "word": "볼까요"
+            },
+            {
+                "end_time": 365.2,
+                "start_time": 362.4,
+                "word": "뭐예요"
+            },
+            {
+                "end_time": 366.9,
+                "start_time": 365.2,
+                "word": "책이예요"
+            },
+            {
+                "end_time": 369.2,
+                "start_time": 366.9,
+                "word": "누구예요"
+            },
+            {
+                "end_time": 371.2,
+                "start_time": 369.2,
+                "word": "가족이"
+            },
+            {
+                "end_time": 373.7,
+                "start_time": 371.2,
+                "word": "뭐예요"
+            },
+            {
+                "end_time": 375.7,
+                "start_time": 373.7,
+                "word": "모자예요"
+            }
+        ]
+    },
+    {
+        "transcript": " 뭐 해요 운동화 해요 뭐 해요 강아지예요 책 가족 영사에 받침이 있어요",
+        "confidence": 0.6804230213165283,
+        "words": [
+            {
+                "end_time": 378.2,
+                "start_time": 377.6,
+                "word": "뭐"
+            },
+            {
+                "end_time": 378.5,
+                "start_time": 378.2,
+                "word": "해요"
+            },
+            {
+                "end_time": 380.7,
+                "start_time": 378.5,
+                "word": "운동화"
+            },
+            {
+                "end_time": 381.0,
+                "start_time": 380.7,
+                "word": "해요"
+            },
+            {
+                "end_time": 382.8,
+                "start_time": 381.0,
+                "word": "뭐"
+            },
+            {
+                "end_time": 383.0,
+                "start_time": 382.8,
+                "word": "해요"
+            },
+            {
+                "end_time": 385.5,
+                "start_time": 383.0,
+                "word": "강아지예요"
+            },
+            {
+                "end_time": 387.9,
+                "start_time": 385.5,
+                "word": "책"
+            },
+            {
+                "end_time": 389.4,
+                "start_time": 387.9,
+                "word": "가족"
+            },
+            {
+                "end_time": 391.2,
+                "start_time": 389.4,
+                "word": "영사에"
+            },
+            {
+                "end_time": 392.1,
+                "start_time": 391.2,
+                "word": "받침이"
+            },
+            {
+                "end_time": 392.6,
+                "start_time": 392.1,
+                "word": "있어요"
+            }
+        ]
+    },
+    {
+        "transcript": " 이에요를 사용합니다 그래서 책이에요 가족이에요라고 이야기해요",
+        "confidence": 0.8004252314567566,
+        "words": [
+            {
+                "end_time": 394.6,
+                "start_time": 393.7,
+                "word": "이에요"
+            },
+            {
+                "end_time": 394.8,
+                "start_time": 394.6,
+                "word": "를"
+            },
+            {
+                "end_time": 395.2,
+                "start_time": 394.8,
+                "word": "사용합니다"
+            },
+            {
+                "end_time": 397.1,
+                "start_time": 395.2,
+                "word": "그래서"
+            },
+            {
+                "end_time": 398.1,
+                "start_time": 397.1,
+                "word": "책이에요"
+            },
+            {
+                "end_time": 400.2,
+                "start_time": 398.1,
+                "word": "가족이에요"
+            },
+            {
+                "end_time": 400.6,
+                "start_time": 400.2,
+                "word": "라고"
+            },
+            {
+                "end_time": 401.4,
+                "start_time": 400.6,
+                "word": "이야기해요"
+            }
+        ]
+    },
+    {
+        "transcript": " 모자 운동화 영사에 받침이 없어요 예우를 사용 해요 그래서 모자에요 운동화에요라고 이야기해요이어서 다음에 볼게요 지은 씨가 마크 씨에게 마크 씨는 회사원이에요 하고 질문 했어요 막 글씨가 아니요 저는 변호사 해요라고 대답합니다",
+        "confidence": 0.8298038840293884,
+        "words": [
+            {
+                "end_time": 404.0,
+                "start_time": 402.7,
+                "word": "모자"
+            },
+            {
+                "end_time": 405.8,
+                "start_time": 404.0,
+                "word": "운동화"
+            },
+            {
+                "end_time": 407.6,
+                "start_time": 405.8,
+                "word": "영사에"
+            },
+            {
+                "end_time": 408.4,
+                "start_time": 407.6,
+                "word": "받침이"
+            },
+            {
+                "end_time": 409.0,
+                "start_time": 408.4,
+                "word": "없어요"
+            },
+            {
+                "end_time": 411.1,
+                "start_time": 409.0,
+                "word": "예우를"
+            },
+            {
+                "end_time": 411.4,
+                "start_time": 411.1,
+                "word": "사용"
+            },
+            {
+                "end_time": 411.6,
+                "start_time": 411.4,
+                "word": "해요"
+            },
+            {
+                "end_time": 413.7,
+                "start_time": 411.6,
+                "word": "그래서"
+            },
+            {
+                "end_time": 415.3,
+                "start_time": 413.7,
+                "word": "모자에요"
+            },
+            {
+                "end_time": 417.2,
+                "start_time": 415.3,
+                "word": "운동화에요"
+            },
+            {
+                "end_time": 417.7,
+                "start_time": 417.2,
+                "word": "라고"
+            },
+            {
+                "end_time": 418.4,
+                "start_time": 417.7,
+                "word": "이야기해요"
+            },
+            {
+                "end_time": 420.7,
+                "start_time": 418.4,
+                "word": "이어서"
+            },
+            {
+                "end_time": 421.2,
+                "start_time": 420.7,
+                "word": "다음에"
+            },
+            {
+                "end_time": 421.5,
+                "start_time": 421.2,
+                "word": "볼게요"
+            },
+            {
+                "end_time": 424.0,
+                "start_time": 421.5,
+                "word": "지은"
+            },
+            {
+                "end_time": 424.3,
+                "start_time": 424.0,
+                "word": "씨가"
+            },
+            {
+                "end_time": 425.0,
+                "start_time": 424.3,
+                "word": "마크"
+            },
+            {
+                "end_time": 425.5,
+                "start_time": 425.0,
+                "word": "씨에게"
+            },
+            {
+                "end_time": 427.0,
+                "start_time": 425.5,
+                "word": "마크"
+            },
+            {
+                "end_time": 427.4,
+                "start_time": 427.0,
+                "word": "씨는"
+            },
+            {
+                "end_time": 428.2,
+                "start_time": 427.4,
+                "word": "회사원이에요"
+            },
+            {
+                "end_time": 429.3,
+                "start_time": 428.2,
+                "word": "하고"
+            },
+            {
+                "end_time": 429.7,
+                "start_time": 429.3,
+                "word": "질문"
+            },
+            {
+                "end_time": 430.1,
+                "start_time": 429.7,
+                "word": "했어요"
+            },
+            {
+                "end_time": 431.9,
+                "start_time": 430.1,
+                "word": "막"
+            },
+            {
+                "end_time": 432.1,
+                "start_time": 431.9,
+                "word": "글씨가"
+            },
+            {
+                "end_time": 433.7,
+                "start_time": 432.1,
+                "word": "아니요"
+            },
+            {
+                "end_time": 434.7,
+                "start_time": 433.7,
+                "word": "저는"
+            },
+            {
+                "end_time": 435.2,
+                "start_time": 434.7,
+                "word": "변호사"
+            },
+            {
+                "end_time": 435.5,
+                "start_time": 435.2,
+                "word": "해요"
+            },
+            {
+                "end_time": 436.6,
+                "start_time": 435.5,
+                "word": "라고"
+            },
+            {
+                "end_time": 437.2,
+                "start_time": 436.6,
+                "word": "대답합니다"
+            }
+        ]
+    },
+    {
+        "transcript": " 여기서 안 이유는 뭘까요",
+        "confidence": 0.9236595630645752,
+        "words": [
+            {
+                "end_time": 439.5,
+                "start_time": 438.6,
+                "word": "여기서"
+            },
+            {
+                "end_time": 440.1,
+                "start_time": 439.5,
+                "word": "안"
+            },
+            {
+                "end_time": 440.6,
+                "start_time": 440.1,
+                "word": "이유는"
+            },
+            {
+                "end_time": 441.1,
+                "start_time": 440.6,
+                "word": "뭘까요"
+            }
+        ]
+    },
+    {
+        "transcript": " 저는 남자예요 아니에요 저는 여자예요",
+        "confidence": 0.8569341897964478,
+        "words": [
+            {
+                "end_time": 443.7,
+                "start_time": 442.9,
+                "word": "저는"
+            },
+            {
+                "end_time": 444.2,
+                "start_time": 443.7,
+                "word": "남자예요"
+            },
+            {
+                "end_time": 445.8,
+                "start_time": 444.2,
+                "word": "아니에요"
+            },
+            {
+                "end_time": 446.9,
+                "start_time": 445.8,
+                "word": "저는"
+            },
+            {
+                "end_time": 447.3,
+                "start_time": 446.9,
+                "word": "여자예요"
+            }
+        ]
+    },
+    {
+        "transcript": " 아니 우는 내일 반대 말이에요",
+        "confidence": 0.7402598857879639,
+        "words": [
+            {
+                "end_time": 450.1,
+                "start_time": 449.3,
+                "word": "아니"
+            },
+            {
+                "end_time": 450.5,
+                "start_time": 450.1,
+                "word": "우는"
+            },
+            {
+                "end_time": 451.6,
+                "start_time": 450.5,
+                "word": "내일"
+            },
+            {
+                "end_time": 452.0,
+                "start_time": 451.6,
+                "word": "반대"
+            },
+            {
+                "end_time": 452.5,
+                "start_time": 452.0,
+                "word": "말이에요"
+            }
+        ]
+    },
+    {
+        "transcript": " 예를 들어 저를 보고 다른 사람이 남자예요 하고 물으면 아니요 저는 여자예요라고 말합니다 계속 다음 문자 해 볼게요 마트 신임 회사원이에요 아니에요 저는 변호사에요 지영 씨는 무슨 일 하세요 저는 대학생이에요",
+        "confidence": 0.9110130667686462,
+        "words": [
+            {
+                "end_time": 455.0,
+                "start_time": 454.2,
+                "word": "예를"
+            },
+            {
+                "end_time": 455.2,
+                "start_time": 455.0,
+                "word": "들어"
+            },
+            {
+                "end_time": 456.1,
+                "start_time": 455.2,
+                "word": "저를"
+            },
+            {
+                "end_time": 456.3,
+                "start_time": 456.1,
+                "word": "보고"
+            },
+            {
+                "end_time": 456.8,
+                "start_time": 456.3,
+                "word": "다른"
+            },
+            {
+                "end_time": 457.3,
+                "start_time": 456.8,
+                "word": "사람이"
+            },
+            {
+                "end_time": 458.6,
+                "start_time": 457.3,
+                "word": "남자예요"
+            },
+            {
+                "end_time": 459.5,
+                "start_time": 458.6,
+                "word": "하고"
+            },
+            {
+                "end_time": 459.9,
+                "start_time": 459.5,
+                "word": "물으면"
+            },
+            {
+                "end_time": 461.4,
+                "start_time": 459.9,
+                "word": "아니요"
+            },
+            {
+                "end_time": 462.4,
+                "start_time": 461.4,
+                "word": "저는"
+            },
+            {
+                "end_time": 462.9,
+                "start_time": 462.4,
+                "word": "여자예요"
+            },
+            {
+                "end_time": 464.4,
+                "start_time": 462.9,
+                "word": "라고"
+            },
+            {
+                "end_time": 464.7,
+                "start_time": 464.4,
+                "word": "말합니다"
+            },
+            {
+                "end_time": 467.8,
+                "start_time": 464.7,
+                "word": "계속"
+            },
+            {
+                "end_time": 468.2,
+                "start_time": 467.8,
+                "word": "다음"
+            },
+            {
+                "end_time": 468.4,
+                "start_time": 468.2,
+                "word": "문자"
+            },
+            {
+                "end_time": 468.5,
+                "start_time": 468.4,
+                "word": "해"
+            },
+            {
+                "end_time": 469.0,
+                "start_time": 468.5,
+                "word": "볼게요"
+            },
+            {
+                "end_time": 471.5,
+                "start_time": 469.0,
+                "word": "마트"
+            },
+            {
+                "end_time": 472.0,
+                "start_time": 471.5,
+                "word": "신임"
+            },
+            {
+                "end_time": 472.7,
+                "start_time": 472.0,
+                "word": "회사원이에요"
+            },
+            {
+                "end_time": 474.0,
+                "start_time": 472.7,
+                "word": "아니에요"
+            },
+            {
+                "end_time": 475.1,
+                "start_time": 474.0,
+                "word": "저는"
+            },
+            {
+                "end_time": 475.9,
+                "start_time": 475.1,
+                "word": "변호사"
+            },
+            {
+                "end_time": 476.3,
+                "start_time": 475.9,
+                "word": "에요"
+            },
+            {
+                "end_time": 477.4,
+                "start_time": 476.3,
+                "word": "지영"
+            },
+            {
+                "end_time": 477.6,
+                "start_time": 477.4,
+                "word": "씨는"
+            },
+            {
+                "end_time": 478.4,
+                "start_time": 477.6,
+                "word": "무슨"
+            },
+            {
+                "end_time": 478.6,
+                "start_time": 478.4,
+                "word": "일"
+            },
+            {
+                "end_time": 478.9,
+                "start_time": 478.6,
+                "word": "하세요"
+            },
+            {
+                "end_time": 480.0,
+                "start_time": 478.9,
+                "word": "저는"
+            },
+            {
+                "end_time": 481.1,
+                "start_time": 480.0,
+                "word": "대학생이에요"
+            }
+        ]
+    },
+    {
+        "transcript": " 지금 마크 씨 하고 지윤 씨는 무슨 이야기를 해요 맞아요 그 사람은 직업을 이야기해요",
+        "confidence": 0.8518542051315308,
+        "words": [
+            {
+                "end_time": 484.8,
+                "start_time": 484.0,
+                "word": "지금"
+            },
+            {
+                "end_time": 485.4,
+                "start_time": 484.8,
+                "word": "마크"
+            },
+            {
+                "end_time": 485.6,
+                "start_time": 485.4,
+                "word": "씨"
+            },
+            {
+                "end_time": 485.8,
+                "start_time": 485.6,
+                "word": "하고"
+            },
+            {
+                "end_time": 486.3,
+                "start_time": 485.8,
+                "word": "지윤"
+            },
+            {
+                "end_time": 486.7,
+                "start_time": 486.3,
+                "word": "씨는"
+            },
+            {
+                "end_time": 487.2,
+                "start_time": 486.7,
+                "word": "무슨"
+            },
+            {
+                "end_time": 487.7,
+                "start_time": 487.2,
+                "word": "이야기를"
+            },
+            {
+                "end_time": 488.0,
+                "start_time": 487.7,
+                "word": "해요"
+            },
+            {
+                "end_time": 490.1,
+                "start_time": 488.0,
+                "word": "맞아요"
+            },
+            {
+                "end_time": 490.9,
+                "start_time": 490.1,
+                "word": "그"
+            },
+            {
+                "end_time": 491.5,
+                "start_time": 490.9,
+                "word": "사람은"
+            },
+            {
+                "end_time": 492.4,
+                "start_time": 491.5,
+                "word": "직업을"
+            },
+            {
+                "end_time": 493.0,
+                "start_time": 492.4,
+                "word": "이야기해요"
+            }
+        ]
+    },
+    {
+        "transcript": " 직업을 질문하고 싶어요 그럼 우리는 무슨 일 하세요 이렇게 질문 해요 직업이 뭐예요는 많이 사용하지 않아요",
+        "confidence": 0.859578013420105,
+        "words": [
+            {
+                "end_time": 496.0,
+                "start_time": 494.7,
+                "word": "직업을"
+            },
+            {
+                "end_time": 496.5,
+                "start_time": 496.0,
+                "word": "질문하고"
+            },
+            {
+                "end_time": 497.0,
+                "start_time": 496.5,
+                "word": "싶어요"
+            },
+            {
+                "end_time": 499.0,
+                "start_time": 497.0,
+                "word": "그럼"
+            },
+            {
+                "end_time": 499.3,
+                "start_time": 499.0,
+                "word": "우리는"
+            },
+            {
+                "end_time": 500.9,
+                "start_time": 499.3,
+                "word": "무슨"
+            },
+            {
+                "end_time": 501.1,
+                "start_time": 500.9,
+                "word": "일"
+            },
+            {
+                "end_time": 501.3,
+                "start_time": 501.1,
+                "word": "하세요"
+            },
+            {
+                "end_time": 502.6,
+                "start_time": 501.3,
+                "word": "이렇게"
+            },
+            {
+                "end_time": 503.0,
+                "start_time": 502.6,
+                "word": "질문"
+            },
+            {
+                "end_time": 503.3,
+                "start_time": 503.0,
+                "word": "해요"
+            },
+            {
+                "end_time": 505.6,
+                "start_time": 503.3,
+                "word": "직업이"
+            },
+            {
+                "end_time": 506.1,
+                "start_time": 505.6,
+                "word": "뭐예요"
+            },
+            {
+                "end_time": 506.4,
+                "start_time": 506.1,
+                "word": "는"
+            },
+            {
+                "end_time": 507.0,
+                "start_time": 506.4,
+                "word": "많이"
+            },
+            {
+                "end_time": 507.6,
+                "start_time": 507.0,
+                "word": "사용하지"
+            },
+            {
+                "end_time": 508.1,
+                "start_time": 507.6,
+                "word": "않아요"
+            }
+        ]
+    },
+    {
+        "transcript": " 지윤 씨는 무슨 일을 해요",
+        "confidence": 0.8845402598381042,
+        "words": [
+            {
+                "end_time": 511.2,
+                "start_time": 510.2,
+                "word": "지윤"
+            },
+            {
+                "end_time": 511.6,
+                "start_time": 511.2,
+                "word": "씨는"
+            },
+            {
+                "end_time": 511.8,
+                "start_time": 511.6,
+                "word": "무슨"
+            },
+            {
+                "end_time": 512.2,
+                "start_time": 511.8,
+                "word": "일을"
+            },
+            {
+                "end_time": 512.3,
+                "start_time": 512.2,
+                "word": "해요"
+            }
+        ]
+    },
+    {
+        "transcript": " 네 맞아요 지은 씨는 대학생이에요 그럼 여러분은 무슨 일을 하세요 이번에는 직업 이름을 이야기해 볼게요 잘 듣고 따라 하세요 무슨 일 하세요 가수예요",
+        "confidence": 0.8349156379699707,
+        "words": [
+            {
+                "end_time": 514.4,
+                "start_time": 513.4,
+                "word": "네"
+            },
+            {
+                "end_time": 514.9,
+                "start_time": 514.4,
+                "word": "맞아요"
+            },
+            {
+                "end_time": 516.3,
+                "start_time": 514.9,
+                "word": "지은"
+            },
+            {
+                "end_time": 516.7,
+                "start_time": 516.3,
+                "word": "씨는"
+            },
+            {
+                "end_time": 517.7,
+                "start_time": 516.7,
+                "word": "대학생이에요"
+            },
+            {
+                "end_time": 519.7,
+                "start_time": 517.7,
+                "word": "그럼"
+            },
+            {
+                "end_time": 521.2,
+                "start_time": 519.7,
+                "word": "여러분은"
+            },
+            {
+                "end_time": 521.8,
+                "start_time": 521.2,
+                "word": "무슨"
+            },
+            {
+                "end_time": 522.0,
+                "start_time": 521.8,
+                "word": "일을"
+            },
+            {
+                "end_time": 522.2,
+                "start_time": 522.0,
+                "word": "하세요"
+            },
+            {
+                "end_time": 525.4,
+                "start_time": 522.2,
+                "word": "이번에는"
+            },
+            {
+                "end_time": 526.3,
+                "start_time": 525.4,
+                "word": "직업"
+            },
+            {
+                "end_time": 526.9,
+                "start_time": 526.3,
+                "word": "이름을"
+            },
+            {
+                "end_time": 527.1,
+                "start_time": 526.9,
+                "word": "이야기해"
+            },
+            {
+                "end_time": 527.6,
+                "start_time": 527.1,
+                "word": "볼게요"
+            },
+            {
+                "end_time": 529.3,
+                "start_time": 527.6,
+                "word": "잘"
+            },
+            {
+                "end_time": 529.7,
+                "start_time": 529.3,
+                "word": "듣고"
+            },
+            {
+                "end_time": 530.4,
+                "start_time": 529.7,
+                "word": "따라"
+            },
+            {
+                "end_time": 530.6,
+                "start_time": 530.4,
+                "word": "하세요"
+            },
+            {
+                "end_time": 533.1,
+                "start_time": 530.6,
+                "word": "무슨"
+            },
+            {
+                "end_time": 533.2,
+                "start_time": 533.1,
+                "word": "일"
+            },
+            {
+                "end_time": 533.5,
+                "start_time": 533.2,
+                "word": "하세요"
+            },
+            {
+                "end_time": 536.1,
+                "start_time": 533.5,
+                "word": "가수예요"
+            }
+        ]
+    },
+    {
+        "transcript": " 무슨 일 해야 돼요",
+        "confidence": 0.7041391134262085,
+        "words": [
+            {
+                "end_time": 538.3,
+                "start_time": 536.9,
+                "word": "무슨"
+            },
+            {
+                "end_time": 538.4,
+                "start_time": 538.3,
+                "word": "일"
+            },
+            {
+                "end_time": 538.5,
+                "start_time": 538.4,
+                "word": "해야"
+            },
+            {
+                "end_time": 538.9,
+                "start_time": 538.5,
+                "word": "돼요"
+            }
+        ]
+    },
+    {
+        "transcript": " 의사예요 무슨 일 하세요",
+        "confidence": 0.8264138698577881,
+        "words": [
+            {
+                "end_time": 541.5,
+                "start_time": 540.5,
+                "word": "의사예요"
+            },
+            {
+                "end_time": 543.7,
+                "start_time": 541.5,
+                "word": "무슨"
+            },
+            {
+                "end_time": 543.8,
+                "start_time": 543.7,
+                "word": "일"
+            },
+            {
+                "end_time": 544.0,
+                "start_time": 543.8,
+                "word": "하세요"
+            }
+        ]
+    },
+    {
+        "transcript": " 경찰이에요",
+        "confidence": 0.7444145679473877,
+        "words": [
+            {
+                "end_time": 546.9,
+                "start_time": 545.8,
+                "word": "경찰이에요"
+            }
+        ]
+    },
+    {
+        "transcript": " 무슨 일 하세요",
+        "confidence": 0.7376741766929626,
+        "words": [
+            {
+                "end_time": 549.3,
+                "start_time": 548.6,
+                "word": "무슨"
+            },
+            {
+                "end_time": 549.4,
+                "start_time": 549.3,
+                "word": "일"
+            },
+            {
+                "end_time": 549.7,
+                "start_time": 549.4,
+                "word": "하세요"
+            }
+        ]
+    },
+    {
+        "transcript": " 학생이에요 무슨 일 하세요",
+        "confidence": 0.8512598276138306,
+        "words": [
+            {
+                "end_time": 552.6,
+                "start_time": 551.7,
+                "word": "학생이에요"
+            },
+            {
+                "end_time": 555.0,
+                "start_time": 552.6,
+                "word": "무슨"
+            },
+            {
+                "end_time": 555.2,
+                "start_time": 555.0,
+                "word": "일"
+            },
+            {
+                "end_time": 555.4,
+                "start_time": 555.2,
+                "word": "하세요"
+            }
+        ]
+    },
+    {
+        "transcript": " 요리사예요",
+        "confidence": 0.7140274047851562,
+        "words": [
+            {
+                "end_time": 557.9,
+                "start_time": 557.1,
+                "word": "요리사"
+            },
+            {
+                "end_time": 558.3,
+                "start_time": 557.9,
+                "word": "예요"
+            }
+        ]
+    },
+    {
+        "transcript": " 무슨 일 하세요 운동 선수예요",
+        "confidence": 0.890494167804718,
+        "words": [
+            {
+                "end_time": 560.6,
+                "start_time": 559.9,
+                "word": "무슨"
+            },
+            {
+                "end_time": 560.7,
+                "start_time": 560.6,
+                "word": "일"
+            },
+            {
+                "end_time": 560.9,
+                "start_time": 560.7,
+                "word": "하세요"
+            },
+            {
+                "end_time": 563.2,
+                "start_time": 560.9,
+                "word": "운동"
+            },
+            {
+                "end_time": 563.8,
+                "start_time": 563.2,
+                "word": "선수예요"
+            }
+        ]
+    },
+    {
+        "transcript": " 자 마크 지워 지우는 씨가 자기 소개를 했어요 무엇을 이야기 했어요",
+        "confidence": 0.7605910897254944,
+        "words": [
+            {
+                "end_time": 566.1,
+                "start_time": 565.4,
+                "word": "자"
+            },
+            {
+                "end_time": 567.1,
+                "start_time": 566.1,
+                "word": "마크"
+            },
+            {
+                "end_time": 567.6,
+                "start_time": 567.1,
+                "word": "지워"
+            },
+            {
+                "end_time": 568.0,
+                "start_time": 567.6,
+                "word": "지우는"
+            },
+            {
+                "end_time": 568.5,
+                "start_time": 568.0,
+                "word": "씨가"
+            },
+            {
+                "end_time": 569.2,
+                "start_time": 568.5,
+                "word": "자기"
+            },
+            {
+                "end_time": 569.5,
+                "start_time": 569.2,
+                "word": "소개를"
+            },
+            {
+                "end_time": 570.0,
+                "start_time": 569.5,
+                "word": "했어요"
+            },
+            {
+                "end_time": 572.2,
+                "start_time": 570.0,
+                "word": "무엇을"
+            },
+            {
+                "end_time": 572.5,
+                "start_time": 572.2,
+                "word": "이야기"
+            },
+            {
+                "end_time": 572.9,
+                "start_time": 572.5,
+                "word": "했어요"
+            }
+        ]
+    },
+    {
+        "transcript": " 이름 나라 직업을 이야기했지요 다시 한번 지은 씨와 마크 씨의 대화를 들어보시죠 안녕하세요 저는 이지은이에요 안녕하세요 저는 마크 스위스예요 락 PC는 어느 나라 사람이에요 저는 미국 사람이에요 회사원이에요 아니에요 저는 변호사에요 지훈 씨는 무슨 일 하세요",
+        "confidence": 0.8824883699417114,
+        "words": [
+            {
+                "end_time": 574.9,
+                "start_time": 573.8,
+                "word": "이름"
+            },
+            {
+                "end_time": 576.2,
+                "start_time": 574.9,
+                "word": "나라"
+            },
+            {
+                "end_time": 578.0,
+                "start_time": 576.2,
+                "word": "직업을"
+            },
+            {
+                "end_time": 578.7,
+                "start_time": 578.0,
+                "word": "이야기했지요"
+            },
+            {
+                "end_time": 580.1,
+                "start_time": 578.7,
+                "word": "다시"
+            },
+            {
+                "end_time": 580.6,
+                "start_time": 580.1,
+                "word": "한번"
+            },
+            {
+                "end_time": 581.5,
+                "start_time": 580.6,
+                "word": "지은"
+            },
+            {
+                "end_time": 581.9,
+                "start_time": 581.5,
+                "word": "씨와"
+            },
+            {
+                "end_time": 582.2,
+                "start_time": 581.9,
+                "word": "마크"
+            },
+            {
+                "end_time": 582.4,
+                "start_time": 582.2,
+                "word": "씨의"
+            },
+            {
+                "end_time": 582.9,
+                "start_time": 582.4,
+                "word": "대화를"
+            },
+            {
+                "end_time": 583.8,
+                "start_time": 582.9,
+                "word": "들어보시죠"
+            },
+            {
+                "end_time": 588.5,
+                "start_time": 583.8,
+                "word": "안녕하세요"
+            },
+            {
+                "end_time": 588.9,
+                "start_time": 588.5,
+                "word": "저는"
+            },
+            {
+                "end_time": 589.5,
+                "start_time": 588.9,
+                "word": "이지은"
+            },
+            {
+                "end_time": 590.0,
+                "start_time": 589.5,
+                "word": "이에요"
+            },
+            {
+                "end_time": 591.4,
+                "start_time": 590.0,
+                "word": "안녕하세요"
+            },
+            {
+                "end_time": 592.5,
+                "start_time": 591.4,
+                "word": "저는"
+            },
+            {
+                "end_time": 593.1,
+                "start_time": 592.5,
+                "word": "마크"
+            },
+            {
+                "end_time": 593.5,
+                "start_time": 593.1,
+                "word": "스위스"
+            },
+            {
+                "end_time": 593.8,
+                "start_time": 593.5,
+                "word": "예요"
+            },
+            {
+                "end_time": 594.6,
+                "start_time": 593.8,
+                "word": "락"
+            },
+            {
+                "end_time": 594.8,
+                "start_time": 594.6,
+                "word": "pc"
+            },
+            {
+                "end_time": 595.0,
+                "start_time": 594.8,
+                "word": "는"
+            },
+            {
+                "end_time": 595.5,
+                "start_time": 595.0,
+                "word": "어느"
+            },
+            {
+                "end_time": 595.7,
+                "start_time": 595.5,
+                "word": "나라"
+            },
+            {
+                "end_time": 596.2,
+                "start_time": 595.7,
+                "word": "사람이에요"
+            },
+            {
+                "end_time": 597.5,
+                "start_time": 596.2,
+                "word": "저는"
+            },
+            {
+                "end_time": 598.1,
+                "start_time": 597.5,
+                "word": "미국"
+            },
+            {
+                "end_time": 598.6,
+                "start_time": 598.1,
+                "word": "사람이에요"
+            },
+            {
+                "end_time": 601.3,
+                "start_time": 598.6,
+                "word": "회사원이에요"
+            },
+            {
+                "end_time": 602.6,
+                "start_time": 601.3,
+                "word": "아니에요"
+            },
+            {
+                "end_time": 603.7,
+                "start_time": 602.6,
+                "word": "저는"
+            },
+            {
+                "end_time": 604.5,
+                "start_time": 603.7,
+                "word": "변호사"
+            },
+            {
+                "end_time": 604.9,
+                "start_time": 604.5,
+                "word": "에요"
+            },
+            {
+                "end_time": 606.0,
+                "start_time": 604.9,
+                "word": "지훈"
+            },
+            {
+                "end_time": 606.2,
+                "start_time": 606.0,
+                "word": "씨는"
+            },
+            {
+                "end_time": 606.9,
+                "start_time": 606.2,
+                "word": "무슨"
+            },
+            {
+                "end_time": 607.2,
+                "start_time": 606.9,
+                "word": "일"
+            },
+            {
+                "end_time": 607.5,
+                "start_time": 607.2,
+                "word": "하세요"
+            }
+        ]
+    },
+    {
+        "transcript": " 세종한국어회화 오늘 첫 시간 어땠어요 재미있었나요 오늘 공부한 내용 꼭 다시 한번 공부하세요 그리고 친구와 한국어로 자기소개를 해 보세요 그럼 우리는 다음 시간에 또 만나요 안녕",
+        "confidence": 0.913676917552948,
+        "words": [
+            {
+                "end_time": 613.9,
+                "start_time": 612.6,
+                "word": "세종한국어회화"
+            },
+            {
+                "end_time": 615.1,
+                "start_time": 613.9,
+                "word": "오늘"
+            },
+            {
+                "end_time": 615.3,
+                "start_time": 615.1,
+                "word": "첫"
+            },
+            {
+                "end_time": 615.7,
+                "start_time": 615.3,
+                "word": "시간"
+            },
+            {
+                "end_time": 616.4,
+                "start_time": 615.7,
+                "word": "어땠어요"
+            },
+            {
+                "end_time": 618.1,
+                "start_time": 616.4,
+                "word": "재미있었나요"
+            },
+            {
+                "end_time": 619.8,
+                "start_time": 618.1,
+                "word": "오늘"
+            },
+            {
+                "end_time": 620.3,
+                "start_time": 619.8,
+                "word": "공부한"
+            },
+            {
+                "end_time": 620.7,
+                "start_time": 620.3,
+                "word": "내용"
+            },
+            {
+                "end_time": 621.1,
+                "start_time": 620.7,
+                "word": "꼭"
+            },
+            {
+                "end_time": 621.5,
+                "start_time": 621.1,
+                "word": "다시"
+            },
+            {
+                "end_time": 621.9,
+                "start_time": 621.5,
+                "word": "한번"
+            },
+            {
+                "end_time": 622.6,
+                "start_time": 621.9,
+                "word": "공부하세요"
+            },
+            {
+                "end_time": 624.0,
+                "start_time": 622.6,
+                "word": "그리고"
+            },
+            {
+                "end_time": 624.6,
+                "start_time": 624.0,
+                "word": "친구와"
+            },
+            {
+                "end_time": 625.2,
+                "start_time": 624.6,
+                "word": "한국어로"
+            },
+            {
+                "end_time": 625.9,
+                "start_time": 625.2,
+                "word": "자기소개를"
+            },
+            {
+                "end_time": 626.0,
+                "start_time": 625.9,
+                "word": "해"
+            },
+            {
+                "end_time": 626.3,
+                "start_time": 626.0,
+                "word": "보세요"
+            },
+            {
+                "end_time": 628.2,
+                "start_time": 626.3,
+                "word": "그럼"
+            },
+            {
+                "end_time": 628.6,
+                "start_time": 628.2,
+                "word": "우리는"
+            },
+            {
+                "end_time": 629.0,
+                "start_time": 628.6,
+                "word": "다음"
+            },
+            {
+                "end_time": 629.4,
+                "start_time": 629.0,
+                "word": "시간에"
+            },
+            {
+                "end_time": 629.6,
+                "start_time": 629.4,
+                "word": "또"
+            },
+            {
+                "end_time": 630.1,
+                "start_time": 629.6,
+                "word": "만나요"
+            },
+            {
+                "end_time": 631.2,
+                "start_time": 630.1,
+                "word": "안녕"
+            }
+        ]
+    },
+    {
+        "transcript": " 저 아니에요 네덜란드 사람 오하영입니다 한국 사람이에요",
+        "confidence": 0.7845630645751953,
+        "words": [
+            {
+                "end_time": 637.8,
+                "start_time": 633.3,
+                "word": "저"
+            },
+            {
+                "end_time": 638.2,
+                "start_time": 637.8,
+                "word": "아니에요"
+            },
+            {
+                "end_time": 639.0,
+                "start_time": 638.2,
+                "word": "네덜란드"
+            },
+            {
+                "end_time": 639.2,
+                "start_time": 639.0,
+                "word": "사람"
+            },
+            {
+                "end_time": 640.4,
+                "start_time": 639.2,
+                "word": "오하영"
+            },
+            {
+                "end_time": 640.8,
+                "start_time": 640.4,
+                "word": "입니다"
+            },
+            {
+                "end_time": 641.5,
+                "start_time": 640.8,
+                "word": "한국"
+            },
+            {
+                "end_time": 641.9,
+                "start_time": 641.5,
+                "word": "사람이에요"
+            }
+        ]
+    }
+]

@@ -24,6 +24,12 @@ for i in result:
 	jsonFileName = i[:-4]+'.json'
 	with open('./wavx/'+jsonFileName, 'w') as f:
 		json.dump(jsonName, f, indent=4, ensure_ascii=False)
+<<<<<<< HEAD
+	destinationJsonName = './One/' + jsonFileName
+=======
 	destinationJsonName = './One/' + jsonFileName 
+>>>>>>> bcecc64105ed469ada9b885d5877bfe0262beffc
 
 	sendToGCS. upload_blob(bucket_name ,jsonFileName, destinationJsonName )
+
+#wav파일 삭제 코드 넣기
