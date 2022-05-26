@@ -8,7 +8,7 @@ result = []
 
 def test(jsonDir):
 	# videos.json  읽어오기
-    with open ("/home/sej/data/STT/videos.json","r") as loadJson:
+    with open ("./videos.json","r") as loadJson:
         LOAD = json.load(loadJson)
     for key, value in LOAD.items():
         print(key)

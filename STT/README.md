@@ -1,8 +1,7 @@
-# STT-DataPreprocessing
+# STT
 
 ## TODO
 
-###STT
 - [x] 영상다운받기
 - [x] 영상 GCS에 올리기
 - [x] 영상 JSON 형태로 STT 추출
