@@ -11,14 +11,29 @@
 	- [ ] 필요없는 단어 삭제 -> 빈도수를 알아보고 적게 나온 단어 삭제 
 
 
+## 변경
+getVideos + cutVideo -> gestVideos + cutOne
+
+cropMouth -> makDir + test
+(delVideo 얼굴 못찾는 영상 삭제할수있는지 검토중)
+
+## 사용법
+
+```py
+
+python3 cutVideo.py
+python3 cropMouth.py
+```
+
 ## 디렉토리 구조
 1. 한글명으로 폴더/파일 생성은 작업에 결함이 생길 수 있음
 2. 그래서 순서대로 숫자를 지정해줌
 
-|---|---|---|
 |폴더명|Video|Image|
+|:---|:---|:---|
 |변경전|data/001/001_1/*video*/001_001안녕하세요.avi|data/001/001_1/*image*/001_001안녕하세요/1.png|
-|변경후|data/001/001_1/*video*/001_001안녕하세요.avi|data/001/001_1/*image*/001_1_001/1.png|
+|변경후|data/001/001_1/*video*/001_001.avi|data/001/001_1/*image*/001_1_001/1.png|
+|변경후후|data/001/*video*/001_1_001.avi|data/001/*image*/001_1_001/1.png|
 
 
 
@@ -35,11 +50,3 @@
 }
 ```
 
-
-## 사용법
-
-```py
-
-python3 cutVideo.py
-python3 cropMouth.py
-```

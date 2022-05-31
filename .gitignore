@@ -12,6 +12,13 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+shape_predictor_68_face_landmarks.dat
+avi/
+data/
+key.json
+p2fa/
+
+
 .Python
 build/
 develop-eggs/

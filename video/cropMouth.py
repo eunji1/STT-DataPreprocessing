@@ -3,20 +3,19 @@ import json
 import dlib
 import skvideo.io
 import cv2
-import makeDir
+
 ## face detector와 landmark predictor 정의
 detector = dlib.get_frontal_face_detector()
 predictor = dlib.shape_predictor("./shape_predictor_68_face_landmarks.dat")
-# data/001/001_1/video/001_001안녕하세요.avi
-# data/001/001_1/image/001_001안녕하세요/1.png
+# data/001/video/001_1_001.avi
+# data/001/image/001_1_001/1.png
 
 result = []
 with open ("./videos.json","r") as loadJson:
     LOAD = json.load(loadJson)
     for key, value in LOAD.items():
-        result.append(key) 
+        result.append(key)
 
-# 한 어절 영상당 30장 맞추어 output 맞추기
 
 ## 비디오 읽어오기
 # json 경로
@@ -24,11 +23,11 @@ for key in result:
     with open('/home/SEJ/STT-DataPreprocessing/STT/wavs/' + key + '.json') as f:
         data = json.load(f)
     for count in range(len(data)):
-        file_names = os.listdir('./data/{}/{}_{}/video'.format(key, key, count))
+        file_names = os.listdir('./data/{}/video'.format(key))
         for label in file_names:
             t_label=label[:-4]
-            os.makedirs("./data/{}/{}_{}/image/{}".format(key, key, count, t_label)) #label
-            mp4_path = './data/{}/{}_{}/video/'.format(key, key, count)+label
+            os.makedirs("./data/{}/image/{}".format(key, t_label)) #label
+            mp4_path = './data/{}/video/'.format(key) + label
             v_cap = cv2.VideoCapture(mp4_path)
                 
             if v_cap.isOpened():
