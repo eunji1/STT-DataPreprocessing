@@ -10,7 +10,7 @@ result = []
 
 def test(jsonDir):
 	# videos.json  읽어오기
-	with open ("videos.json","r") as loadJson:
+	with open (jsonDir,"r", encoding="UTF-8") as loadJson:
 		LOAD = json.load(loadJson)
 
 	# videos.json  Key,Value로 하나씩 돌리기 위한 for문 

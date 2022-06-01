@@ -7,6 +7,9 @@
 - [x] 영상 JSON 형태로 STT 추출
 - [x] 503에러 해결
 	- [x] json파일 경로 './STT/wavs/'
+- [x] Timeout 에러
+	- [x] 영상길이가 너무 길경우에 STT변환 x (약 13분 이상)
+
 
 ## 준비물
 - videos.json

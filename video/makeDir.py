@@ -11,7 +11,7 @@ def makeImageDir(key):
     file_names = os.listdir('./data/{}/video'.format(key))
     for label in file_names:
         t_label=label[:-4]
-        os.makedirs("./data/{}/image/{}".format(key, t_label)) #label
+        #os.makedirs("./data/{}/image/{}".format(key, t_label)) #label
         mp4_path = './data/{}/video/'.format(key) + label
         image_path.append(mp4_path)
     return image_path
