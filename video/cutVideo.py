@@ -4,7 +4,16 @@ from subprocess import call
 from moviepy.video.io.ffmpeg_tools import ffmpeg_extract_subclip
 import os
 
-result = getVideos.test("./videos.json")
+result=[]
+with open ("./videos.json","r") as loadJson:
+	LOAD = json.load(loadJson)
+for key, value in LOAD.items():
+	print(key)
+	print(value)
+	result.append(key)
+
+
+#result = getVideos.test("./videos.json")
 #['001','002','003']
 
 #WordJson은 어절단위로 자른 영상 정답 라벨을 모은 제이슨파일
@@ -19,7 +28,8 @@ for key in result:
 	VideoNameJson = {"VideoName" : key, "words":[]}
 	WordJson.append(VideoNameJson)
 	ListJson = []
-	with open('/home/SEJ/STT-DataPreprocessing/STT/wavs/' + key + '.json') as f:
+	with open('/home/sej/STT-DataPreprocessing/STT/wavs/' + key + '_cut.json', encoding='cp949') as f:
+		#/home/sej/STT-DataPreprocessing/STT/wavs/ytn_NN_1_cut.json
 		data = json.load(f)
 
 	for count in range(len(data)):
@@ -41,8 +51,8 @@ for key in result:
 			Num = str(int(num/3)).zfill(2)
 			video_name = '{}_{}_{}'.format(key, count, Num)
 			
-			# 너무 짧고 긴 영상은 자르기
-			if duration > 0.5 and duration < 1.3:
+			# 너무 짧고 긴 영상은 자르기 1.3
+			if duration > 0.3 and duration < 0.8:
 			
 				#WordListJson[video_name] = WordTimeList[2]
 				WordListJson = {"fileName": video_name, "word": WordTimeList[2], "duration": duration}
@@ -51,8 +61,8 @@ for key in result:
 				print(WordTimeList[2])
 				#앞뒤로 0.3초 패딩
 				ffmpeg_extract_subclip("./avi/{}.avi".format(key), 
-										WordTimeList[1]-0.3, 
-										WordTimeList[0]+0.2, 
+										WordTimeList[1]-0.1, 
+										WordTimeList[0]+0.8, 
 										targetname="./data/{}/video/{}.avi".format(key, video_name))
 				#align.txt 만들기
 				txt = open("./data/{}/align/{}.txt".format(key, video_name), 'a')
@@ -61,4 +71,5 @@ for key in result:
 		VideoNameJson["words"] = ListJson	
 
 	with open('./data/{}/WordJson.json'.format(key), 'w') as f:
-		json.dump(WordJson, f, indent=4, ensure_ascii=False)
+		json.dump(WordJson, f, indent=4)
+		#json.dump(WordJson, f, indent=4, ensure_ascii=False)

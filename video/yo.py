@@ -5,9 +5,10 @@ import shutil
 import os
 # 폴더 안에 파일이 있어도 삭제
 # ./video/data/*/*/image
-
-shutil.rmtree('./test')
-os.mkdir('./test')
+mostWord = ['여러분', '안녕하십니까', '코로나', '오늘', '확진자', '이번', '다시']
+for i in mostWord:
+    shutil.rmtree('./MostWord/{}'.format(i))
+    #os.mkdir('./test')
 
 # dir_path = ["001", "002"]
 # for i in dir_path:
