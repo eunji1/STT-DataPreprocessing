@@ -25,9 +25,6 @@ for key in result:
 	for count in range(len(data)):
 		dictTime = data[count]['words']
 		num = 0
-		# data/001/video/001_1_001.avi
-		# data/001/image/001_1_001/1.png
-		
 		for row in dictTime:
 			# end_time, start_time, word를 WordTimeList안에 따로 담기  
 			WordTimeList = []
@@ -36,29 +33,26 @@ for key in result:
 				num += 1
 				#print(num/3)
 				#print(WordTimeList)
-			
-			duration = WordTimeList[0] - WordTimeList[1]
-			Num = str(int(num/3)).zfill(2)
-			video_name = '{}_{}_{}'.format(key, count, Num)
-			
-			# 너무 짧고 긴 영상은 자르기
-			if duration > 0.5 and duration < 1.3:
-			
-				#WordListJson[video_name] = WordTimeList[2]
-				WordListJson = {"fileName": video_name, "word": WordTimeList[2], "duration": duration}
+
+			# 길이가 한단어인 영상은 삭제
+			if len(WordTimeList[2]) > 1:
+				Num = str(int(num/3)).zfill(2)
+				video_name = '{}_{}_{}'.format(key, count, Num)
+				WordListJson = {"fileName": video_name, "word": WordTimeList[2]}
 				ListJson.append(WordListJson)
 
-				print(WordTimeList[2])
-				#앞뒤로 0.3초 패딩
+				# 총1.7초
 				ffmpeg_extract_subclip("./avi/{}.avi".format(key), 
-										WordTimeList[1]-0.3, 
-										WordTimeList[0]+0.2, 
+										WordTimeList[1]-0.5, 
+										WordTimeList[1]+1.2, 
 										targetname="./data/{}/video/{}.avi".format(key, video_name))
+
 				#align.txt 만들기
 				txt = open("./data/{}/align/{}.txt".format(key, video_name), 'a')
-				txt.write("word: {} \nduration: {} \nstarttime: {} \nendtime: {} ".format(WordTimeList[2], duration+0.5, WordTimeList[1]-0.3, WordTimeList[0]+0.2))
-				txt.close	
+				txt.write("word: {} \nduration: 1.7 \nstarttime: {} \nendtime: {} ".format(WordTimeList[2], WordTimeList[1]-0.5, WordTimeList[1]+1.2))
+				txt.close
 		VideoNameJson["words"] = ListJson	
 
+	#영상 하나당 폴더명과 라벨링을 모은 JSON파일
 	with open('./data/{}/WordJson.json'.format(key), 'w') as f:
 		json.dump(WordJson, f, indent=4, ensure_ascii=False)

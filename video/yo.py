@@ -5,10 +5,9 @@ import shutil
 import os
 # 폴더 안에 파일이 있어도 삭제
 # ./video/data/*/*/image
-dir_path = ["./avi", "./data"]
-for i in dir_path:
-    shutil.rmtree(i)
-    os.mkdir(i)
+
+shutil.rmtree('./test')
+os.mkdir('./test')
 
 # dir_path = ["001", "002"]
 # for i in dir_path:

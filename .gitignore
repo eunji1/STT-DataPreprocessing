@@ -18,6 +18,13 @@ key.json
 *.so
 
 # Distribution / packaging
+shape_predictor_68_face_landmarks.dat
+avi/
+data/
+key.json
+wavs/
+
+
 .Python
 build/
 develop-eggs/
