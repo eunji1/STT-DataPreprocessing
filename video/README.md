@@ -14,22 +14,15 @@
 - [x] 영상 얼굴 랜드마크 찾고 얼굴 자르기
 - [ ] 30프레임, 프레임 너비: 1920, 높이: 1080
 
-- [x] 빈도수 알아내서 특정단어만 가져오기 
-- [ ] 프레임 30개로 맞추기
-
-[추가]
-+ dictWord
-+ frameMatching
-+ wframe
-+ takeWord
 
 
 ## 변경
-getVideos + cutVideo -> ~getVideos+cutOne~
+getVideos + cutVideo -> getVideos + cutOne
 
+cropMouth -> makDir + test
+(delVideo 얼굴 못찾는 영상 삭제할수있는지 검토중)
 
-cropMouth->makDir+test
-
+faceRecognitionFromVideo
 
 
 ## 사용법
@@ -37,9 +30,7 @@ cropMouth->makDir+test
 ```py
 
 python3 cutVideo.py
-python3 faceRecognitionFromVideo.py
-python3 takeWord.py
-python3 frameMatching.py
+python3 cropMouth.py
 ```
 
 ## 디렉토리 구조
@@ -47,18 +38,11 @@ python3 frameMatching.py
 2. 그래서 순서대로 숫자를 지정해줌
 3. 예시) 영상 제목= 001
 
-|data 폴더명|Video|Image|
+|폴더명|Video|Image|
 |:---|:---|:---|
 |변경전|data/001/001_1/*video*/001_001안녕하세요.avi|data/001/001_1/*image*/001_001안녕하세요/1.png|
 |변경후|data/001/001_1/*video*/001_001.avi|data/001/001_1/*image*/001_1_001/1.png|
 |변경후후|data/001/*video*/001_1_001.avi|data/001/*image*/001_1_001/1.png|
-
-|MostWord 폴더명|Video|VideoA|
-|:---|:---|:---|
-|폴더구조|MostWord/안녕/video/*|MostWord/안녕/videoA/*|
-|변경후|faceRec데이터|원본데이터|
-
-
 
 
 

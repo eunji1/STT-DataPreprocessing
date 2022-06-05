@@ -19,45 +19,6 @@
 	- [ ] 한명이 말하고 있지 않은 영상 삭제 ->입술을 찾지 못할 때
 	- [ ] 필요없는 단어 삭제 -> 빈도수를 알아보고 적게 나온 단어 삭제 
 
-# 디렉토리 구조
-
-```bash
-├── STT
-│   ├── wavs ├── *.json
-│   ├── auto.py
-│   ├── check.py
-│   ├── downloadFileGCS.py
-│   ├── getAudioes.py
-│   ├── save.json
-│   ├── sendToGCS.py
-│   ├── sttjson.py
-│   └── videos.json
-├── video
-│   ├── avi ├── *.avi
-│   ├── data ├── * ├──align
-│   │              ├──face_video 
-│   │              ├──video
-│   │              └──WordJson.json
-│   ├── MostWord ├── * ├──video
-│   │                  └──videoA 
-│   ├── cropMouth.py
-│   ├── cutOne.py
-│   ├── cutVideo.py
-│   ├── delVideo.py
-│   ├── dictWord.py
-│   ├── faceRecognitionFromVideo.py
-│   ├── FrameMaching.py
-│   ├── getVideos.py
-│   ├── makeDir.py
-│   ├── remove.py
-│   ├── takeWord.py
-│   ├── test.py
-│   ├── videos.json
-│   └── wframe.py
-│
-├── requirements.txt
-└── README.md
-``` 
 
 ## 문제점
 
