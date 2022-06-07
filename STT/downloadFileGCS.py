@@ -1,6 +1,6 @@
 from google.cloud import storage
 import os
-
+#GCS에 저장된 파일 다운로드하기
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="key.json"
 
 bucket_name = 'example_baker'    # 서비스 계정 생성한 bucket 이름 입력

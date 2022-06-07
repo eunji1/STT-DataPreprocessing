@@ -19,7 +19,6 @@ for i in result:
 	jsonName = sttJson.transcribe_gcs_with_word_time_offsets('gs://example_baker/'+i)
 
     # json파일 GCS로 옮기기
-    # 굳이 옮겨야 할까?
     
 	jsonFileName = i[:-4]+'.json'
 	with open('./wavs/'+jsonFileName, 'w') as f:
@@ -29,5 +28,5 @@ for i in result:
 
 	sendToGCS. upload_blob(bucket_name ,jsonFileName, destinationJsonName )
 	
-	#wav파일 삭제 코드 넣기
+	#STT로 변환끝난 wav파일 삭제
 	os.remove("./wavs/{}.wav".format(i[:-4]))
