@@ -22,8 +22,9 @@ with open ("./videos.json","r") as loadJson:
         for mp4_path in image_path:
             print("this Count session = " + mp4_path)
             v_cap = cv2.VideoCapture(mp4_path)
+
             if v_cap.isOpened():
-                while True:
+                while True: #무한루프
                     success, image = v_cap.read()  # BGR
                     print("OK")
                     try:
