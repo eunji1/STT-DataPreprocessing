@@ -17,10 +17,9 @@
 
 
 ## 변경
-getVideos + cutVideo -> getVideos + cutOne
+getVideos + cutVideo
 
-cropMouth -> makDir + test
-(delVideo 얼굴 못찾는 영상 삭제할수있는지 검토중)
+makDir + cropMouth
 
 faceRecognitionFromVideo
 

@@ -51,17 +51,3 @@ with open ("./videos.json","r") as loadJson:
                     except IndexError:
                         print("error")
 
-
-'''
-영상 제로 패딩 추가하기
-프레임별로 추출한 이미지는 넘파이 배열로 이루어져있음
-import cv2
-import numpy as np
-
-img = np.zeros((512, 512, 3), np.unit8) #컬러
-img = np.zeros((512, 512), np.unit8) #흑백
-
-cv2.imshow('img',img)
-
-cv2.waitKey()
-'''
